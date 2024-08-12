@@ -39,9 +39,9 @@ Application-layer firewalls are capable of detecting and blocking advanced threa
 
 - **Traffic Filtering:** Firewalls enforce security policies by allowing or blocking traffic based on predefined rules, preventing unauthorized access and data breaches.
 - **Protection Against Attacks:** They safeguard networks from a range of cyberattacks, including:
-  - **Denial of Service (DoS) Attacks:** Prevents attackers from overwhelming network resources.
-  - **Malware Infections:** Blocks malicious software from entering the network.
-  - **Phishing Attempts:** Prevents phishing attempts by filtering suspicious traffic.
+- **Denial of Service (DoS) Attacks:** Prevents attackers from overwhelming network resources.
+- **Malware Infections:** Blocks malicious software from entering the network.
+- **Phishing Attempts:** Prevents phishing attempts by filtering suspicious traffic.
 - **Network Monitoring:** Provides detailed logs and reports of network traffic, helping administrators detect and respond to potential threats.
 
 ## Implementing Firewalls
