@@ -6,7 +6,7 @@ Firewalls are a cornerstone of network security, serving as a barrier between a 
 
 ### 1. Packet-Filtering Firewalls
 
-Packet-filtering Firewalls operate at the network layer and examine packets of data as they are transmitted between devices. They filter packets based on rules defined by network administrators, which typically include:
+Packet-filtering firewalls operate at the network layer and examine packets of data as they are transmitted between devices. They filter packets based on rules defined by network administrators, which typically include:
 
 - **Source IP Address:** The address of the device sending the packet.
 - **Destination IP Address:** The address of the device receiving the packet.
@@ -18,7 +18,7 @@ These firewalls are effective for basic traffic filtering and are less resource-
 
 ### 2. Stateful Inspection Firewalls
 
-Stateful inspection Firewalls, also known as dynamic packet filtering, provide a more advanced level of security by tracking the state of active connections. They maintain a state table that records information about active sessions, including:
+Stateful inspection firewalls, also known as dynamic packet filtering, provide a more advanced level of security by tracking the state of active connections. They maintain a state table that records information about active sessions, including:
 
 - **Connection State:** Indicates whether the connection is new, established, or closing.
 - **Packet Sequence:** Ensures that packets are part of a valid session and are received in the correct order.
